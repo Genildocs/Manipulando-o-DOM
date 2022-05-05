@@ -13,8 +13,8 @@ function changeClasses(){ // FUNÇÃO ADICIONA A CLASSE DARK MODE EM TODOS OS EL
 }
 
 function changeText(){ // FUNÇÃO ALTERA O TEXTO DO BUTÃO E DO H1 //
-    const lightMode = "Light Mode"
-    const darkMode = "Dark Mode"
+    const lightMode = "Modo Claro"
+    const darkMode = "Modo Escuro"
 
 
     if(body.classList.contains(darkModeClass)){
